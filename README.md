@@ -37,21 +37,25 @@ t1=0.01,t2=0.99,i1=0.5,i2=0.01 shall be fixed w1,w2,w3,w4,w5,w6,w7,w8 shall chan
 
 SNAPSHOT OF EXCEL :
 
-image
+![image](https://github.com/RAMGUNJAN/ERAV1BACKPROPAGATION/assets/47599939/585aa219-7497-400e-8a99-11b1618ae45b)
+
 
 loss graph (For lerning rate 0.1,0.2,0.5,0.8,1,2)
 
-image
+![image](https://github.com/RAMGUNJAN/ERAV1BACKPROPAGATION/assets/47599939/1542c7ad-555b-4518-bbc8-9a715ab084d1)
 
-image
+![image](https://github.com/RAMGUNJAN/ERAV1BACKPROPAGATION/assets/47599939/8c747077-f01f-4764-a37e-78c9b445f164)
 
-image
+![image](https://github.com/RAMGUNJAN/ERAV1BACKPROPAGATION/assets/47599939/d4de80a4-3824-4672-bc6d-381f2eb4d05c)
 
-image
+![image](https://github.com/RAMGUNJAN/ERAV1BACKPROPAGATION/assets/47599939/8fe9f96d-857d-4760-8bcb-478d6fe212c7)
 
-image
+![image](https://github.com/RAMGUNJAN/ERAV1BACKPROPAGATION/assets/47599939/7ed7c0fe-1287-467d-b62b-7d3643f08347)
 
-image
+![image](https://github.com/RAMGUNJAN/ERAV1BACKPROPAGATION/assets/47599939/53baca81-51c8-4cd2-9fdd-a7bcc575f626)
+
+![image](https://github.com/RAMGUNJAN/ERAV1BACKPROPAGATION/assets/47599939/f625495f-04c1-400b-8ac7-f2d9c37cf720)
+
 
 With more iteration loss converges to lower.
 
